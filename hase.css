@@ -1,0 +1,267 @@
+body {color: black;
+    font-weight: 600;
+    line-height: 16px; }
+
+.row div div {    
+margin-left: 15px;
+margin-right: 15px; 
+padding: 5px;
+max-width: 200px;
+        border-style: solid;
+    border-width: 7px;
+}
+
+.row div div:hover {
+background-color: yellow;
+text-decoration: none;}
+
+a:hover {
+text-decoration: none;
+color: black;}
+
+.row div div div{border-style: none; 
+margin: 0;
+padding-left: 5px; 
+padding-right: 5px; 
+padding-top: 6px; 
+margin-top: 5px; 
+margin-left: -5px; 
+margin-right: -5px;
+margin-bottom: -5px;
+font-weight: 300;
+font-size: 15px; 
+}
+
+.box1-bottom {
+background-color: aqua;
+    }
+.box1-bottom:hover{
+background-color: aqua!important; 
+    }
+
+.box2-bottom {
+background-color: chartreuse;
+    }
+.box2-bottom:hover{
+background-color: chartreuse!important; 
+    }
+
+.box3-bottom {
+background-color: gray;
+    }
+.box3-bottom:hover{
+background-color: gray!important; 
+    }
+
+.box4-bottom {
+background-color: yellow;
+    }
+.box4-bottom:hover{
+background-color: yellow!important; 
+    }
+
+.box5-bottom {
+background-color: blue;
+    }
+.box5-bottom:hover{
+background-color: blue!important; 
+    }
+
+.box6-bottom {
+background-color: darkorchid;
+    }
+.box6-bottom:hover{
+background-color: darkorchid!important; 
+    }
+
+.box7-bottom {
+background-color: fuchsia;
+    }
+.box7-bottom:hover{
+background-color: fuchsia!important; 
+    }
+
+.box8-bottom {
+background-color: lightblue;
+    }
+.box8-bottom:hover{
+background-color: lightblue!important; 
+    }
+
+
+a {
+	word-wrap: break-word;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+
+}
+
+.content {margin-top: 20px; 
+}
+
+.row {
+    margin-left: 15px; 
+    margin-right: 15px;
+}
+
+.box1 {
+    margin-top: 0px;
+    margin-bottom: 3px; 
+        border-color: aqua;
+     box-shadow: 15px 15px 20px lightgrey;
+}
+
+.box2 {
+    margin-top: 20px;
+    margin-bottom: 150px; 
+        border-color:chartreuse; 
+    box-shadow: 15px 15px 20px lightgrey;
+}
+
+.box3 {
+    margin-top: 50px;
+    margin-bottom: 100px; 
+        border-color: gray; 
+    box-shadow: 15px 15px 20px lightgrey;
+}
+
+.box4 {
+    margin-top: 0px;
+    margin-bottom: 0px; 
+    border-color: yellow; 
+    box-shadow: 15px 15px 20px lightgrey;
+    
+}
+
+.box5 {
+    margin-top: 80px;
+    margin-bottom: 50px; 
+        border-color:blue; 
+    box-shadow: 15px 15px 20px lightgrey;
+}
+
+.box6 {
+    margin-top: 3px;
+    margin-bottom: -50px; 
+        border-color:darkorchid; 
+    box-shadow: 15px 15px 20px lightgrey;
+}
+
+.box7 {
+    margin-top: 50px;
+    margin-bottom: 100px; 
+        border-color: fuchsia; 
+    box-shadow: 15px 15px 20px lightgrey;
+}
+
+.box8 {
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    border-color: lightblue;
+    box-shadow: 15px 15px 20px lightgrey;
+    
+}
+
+
+.beitrag {
+    text-align: center; 
+    margin: auto; 
+}
+
+.nav a:hover {
+    color: yellow; 
+}
+.col-lg-3 img{
+    width: 186px; 
+    margin-left: -5px; 
+    margin-right: -5px; 
+    margin-top: -5px; 
+    margin-bottom: 5px; 
+}
+
+input[type=search] { 	
+	padding-left: 4px;      
+	border: 5px solid black;  
+	background:;          
+	font-size: 15px;             
+}
+
+
+/* button */
+
+/*.btn-search {
+	  background: #424242;
+	  border-radius: 0;
+	  color: #fff;
+	  border-width: 1px;
+	  border-style: solid;
+	  border-color: #1c1c1c;
+	}
+	.btn-search:link, .btn-search:visited {
+	  color: #fff;
+	}
+	.btn-search:active, .btn-search:hover {
+	  background: #1c1c1c;
+	  color: #fff;
+	}*/
+
+/*.suche {
+    max-width: 200px; 
+    border-radius: 0px;
+}*/
+
+
+
+
+
+
+
+
+/* Beitrag */
+
+
+.formular {
+    margin-left: 40px; 
+    margin-top: 40px; 
+    max-width: 500px;
+}
+
+#hase {
+    font-weight: 400; 
+}
+
+.beitragbtn {
+    border: 1 px solid;
+    border-width: 7px;
+    border-color: aqua; 
+    border-radius: 0px; 
+    background-color: white; 
+    color: black; 
+    font-weight: 600; 
+}
+
+.beitragbtn:hover {
+    background-color: yellow; 
+    border-color:aqua; 
+    color: black; 
+}
+
+.link {
+    border: 1 px solid;
+    border-width: 7px;
+    border-color: lightgray; 
+    border-radius: 0px; 
+}
+
+.link:focus {border-color: lightgray; }
+
+
+
+
+
+
+
+
+
+
